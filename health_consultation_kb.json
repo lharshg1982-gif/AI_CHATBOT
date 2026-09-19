@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ckd-overview",
+    "title": "Chronic kidney disease: monitoring and care planning",
+    "topics": ["chronic kidney disease", "ckd", "kidney", "monitoring", "stage"],
+    "guidance": "CKD care is based on the cause and stage of disease, kidney function and urine findings, blood pressure, diabetes status, medications, and other health conditions. Clinicians commonly monitor estimated glomerular filtration rate, urine albumin, blood pressure, electrolytes, anemia, and symptoms over time. A nephrologist can help interpret trends and coordinate a personalized plan.",
+    "safety": "This is general education, not a diagnosis or treatment plan. Do not change medicines, fluids, protein intake, or supplements without a clinician.",
+    "source": "Curated educational guidance for this demo; review against current KDIGO and local clinical guidance before production use."
+  },
+  {
+    "id": "ckd-treatment-approaches",
+    "title": "CKD treatment approaches to discuss with a clinician",
+    "topics": ["chronic kidney disease", "ckd", "treatment", "therapy", "management", "latest"],
+    "guidance": "Depending on the individual situation, clinicians may discuss blood-pressure and diabetes risk reduction, kidney-protective medicines when appropriate, management of cardiovascular risk, treatment of anemia or mineral and bone complications, medication review for kidney safety, nutrition advice, and planning for advanced kidney disease when needed. The appropriate option depends on laboratory results, kidney function, cause, contraindications, and other medicines.",
+    "safety": "Do not start, stop, or change a medicine based on this summary. Ask a nephrologist or primary care clinician which options apply.",
+    "source": "Curated educational guidance for this demo; pair with current clinical guidelines and clinician review."
+  },
+  {
+    "id": "nephrology-visit-preparation",
+    "title": "Preparing for a nephrology consultation",
+    "topics": ["nephrologist", "nephrology", "appointment", "kidney", "visit"],
+    "guidance": "Bring a current medication and supplement list, recent laboratory and imaging results when available, home blood-pressure readings, allergy information, relevant diagnoses, and a list of questions. Ask which tests are needed, what the kidney-function trend means, which symptoms should prompt a call, and when follow-up is recommended.",
+    "safety": "Appointment preparation does not replace urgent evaluation for severe or rapidly worsening symptoms.",
+    "source": "Curated administrative and educational guidance for this demo."
+  },
+  {
+    "id": "kidney-warning-signs",
+    "title": "Symptoms needing prompt medical attention",
+    "topics": ["kidney", "ckd", "emergency", "symptoms", "breathing", "chest pain", "urine"],
+    "guidance": "Severe difficulty breathing, chest pain, confusion, fainting, severe weakness, or very little urine output can require urgent medical assessment. Contact local emergency services for life-threatening symptoms and do not delay care while using this assistant.",
+    "safety": "This list is not exhaustive and is not a diagnostic tool.",
+    "source": "Curated safety guidance for this demo."
+  }
+]
